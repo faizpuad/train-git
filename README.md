@@ -2,3 +2,8 @@
 
 ## Intro
 *Hello*
+
+### Try bullet point
+- hi
+- apa kabar
+- sihat?
