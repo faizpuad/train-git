@@ -7,3 +7,5 @@
 - hi
 - apa kabar
 - sihat?
+
+### feat/simple-add-function
